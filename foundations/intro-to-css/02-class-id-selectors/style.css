@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: #ee8585;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.large    {
+    font-size: 36px;
+}
+
+#two    {
+    font-size: 36px;
+    color: #0052bd;
+}
+
+#four   {
+    font-size: 36px;
+    font-weight: bold;
+    background-color: #68d15e;
+}
